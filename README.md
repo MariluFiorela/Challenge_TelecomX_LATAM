@@ -34,23 +34,23 @@ Descubrimos que la tasa de evasión es del **26.5%**.
 #### 📉 ¿Influye el tipo de contrato?
 Los datos revelan que los clientes con contratos **"Mes a mes"** tienen una probabilidad de fuga significativamente mayor en comparación con los contratos anuales.
 
-![Distribución de Evasión](images/IMG_3.png)
-![Distribución de Evasión](images/IMG_4.png)
+![Contraton](images/IMG_3.png)
+![contrato](images/IMG_4.png)
 
-![Distribución de Evasión](images/IMG_5.png)
+![contraton](images/IMG_5.png)
 
 #### 💰 El factor Precio y Antigüedad
 A través de diagramas de caja (Boxplots), confirmamos que:
 1. Los clientes que se van tienen cargos mensuales más altos.
 2. La mayoría de las cancelaciones ocurren durante los primeros meses de servicio.
-![Distribución de Evasión](images/IMG_6.png)
-![Distribución de Evasión](images/IMG_7.png)
-![Distribución de Evasión](images/IMG_8.png)
+![El factor Precio y Antigüedad](images/IMG_6.png)
+![El factor Precio y Antigüedad](images/IMG_7.png)
+![El factor Precio y Antigüedad](images/IMG_8.png)
 
 ### 4. Matriz de Correlación
 Utilicé un mapa de calor para identificar qué variables tienen mayor peso sobre la evasión.
 
-![Distribución de Evasión](images/IMG_9png)
+![Matriz_correlacion](images/IMG_9.png)
 
 ---
 
